@@ -16,6 +16,9 @@ Step 4: In Command prompt:
         ollama cteate codeAssistantmodel -f modelfile
         ollama run codeAssistantmodel
 
+Step 5: Integrated with API.
+
+Step 6: Run python app.py
 
 Refered Gitub: https://github.com/ollama/ollama.
 
