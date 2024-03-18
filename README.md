@@ -6,7 +6,7 @@ customised model for further use.
 Step 1: Download Ollama from below website:
         https://ollama.com/download/windows
 
-Step 2: Open Command Prompt and Run this command to doanload model:
+Step 2: Open Command Prompt and Run this command to download model:
         ollama run codellama
 
 Step 3: Create our own customised model in file called modelfile and set the parameters and Prompt
